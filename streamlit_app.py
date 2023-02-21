@@ -67,7 +67,7 @@ try:
 #streamlit.dataframe(fruityvice_normalized)
 
 #Stop point
-#streamlit.stop()
+streamlit.stop()
 
 
 
